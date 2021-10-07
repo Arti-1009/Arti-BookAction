@@ -1,0 +1,91 @@
+.flex-container {  
+      
+    display: flex;
+  
+    width: 100%;  
+    height: 00%;  
+    background-color:white;  
+}  
+#flex-item1 {  
+    background-color: silver; 
+
+  background-image: url("GreatWall_China.jpg");
+    width:50%;
+      font-size:20%;
+    height: 500px;  
+    margin: 10px;  
+    flex-grow: 1;
+   
+} 
+.flex-item2 {  
+    background-color: silver;
+   background-image: radial-gradient(circle closest-side,white, lightpink, lightblue  80%); 
+     padding:10px;
+    height: 500px;  
+width:50%;
+    margin: 10px;  
+   flex-grow: 2;  
+}
+
+
+#flex-item3 {  
+    background-color: silver;
+  background-image: url("Taj_Mahal.jpg");
+   width:50%;
+     font-size:20%;
+    height: 500px;  
+    margin: 10px;  
+   
+}
+#flex-item4 {  
+    background-color: silver;
+  background-image: url("Colosseum.jpg");
+   width:50%;
+     font-size:20%;
+    height: 500px;  
+    margin: 10px;  
+   
+}
+#flex-item5 {  
+    background-color: silver;
+  background-image: url("pyramid-plaza.jpg");
+   width:50%;
+     font-size:20%;
+    height: 500px;  
+    margin: 10px;  
+   Khaznah_Petra
+}
+
+#flex-item6 {  
+    background-color: silver;
+  background-image: url(" Khaznah_Petra.jpg");
+   width:50%;
+     font-size:20%;
+    height: 500px;  
+    margin: 10px;  
+   
+}
+
+#flex-item7 {  
+    background-color: silver;
+  background-image: url(" Machu_Picchu.jpg");
+   width:50%;
+     font-size:20%;
+    height: 500px;  
+    margin: 10px;  
+   
+}
+
+
+#flex-item8 {  
+    background-color: silver;
+  background-image: url(" statue_Christ.jpg");
+   width:50%;
+     font-size:20%;
+    height: 500px;  
+    margin: 10px;  
+   
+}
+
+
+p{font-size:150%;}
